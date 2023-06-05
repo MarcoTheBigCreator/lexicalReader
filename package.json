@@ -1,0 +1,16 @@
+{
+  "name": "lexicalreader",
+  "version": "1.0.0",
+  "description": "Reads the characters of a txt file",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "test",
+    "dev": "nodemon index.js"
+  },
+  "author": "Marco Rodriguez",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}

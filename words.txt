@@ -1,0 +1,6 @@
+print
+$()
+abcde
+	+-1234
+lol
+sa s s  
